@@ -1,0 +1,26 @@
+# Input data (not distributed in this repository)
+input_files/
+
+# Generated outputs
+figure_1/
+figure_2/
+figure_3/
+figure_4/
+figure_5/
+hcc_pred/
+lgg_pred/
+loocv_hcc/
+tcga_pred/
+drug_cohort_pred/
+ccle_pred/
+logs/
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS files
+.DS_Store
+Thumbs.db
