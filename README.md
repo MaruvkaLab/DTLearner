@@ -2,7 +2,7 @@
 
 <!-- TODO: replace with the paper title, authors and a link once published -->
 
-Analysis code for **[PAPER TITLE]** ([AUTHORS], [JOURNAL / preprint], [YEAR]).
+Analysis code for **[A machine learning model for predicting tumor doubling time from RNA expression]** ([JOURNAL / preprint], [YEAR]).
 
 This repository contains the R scripts that reproduce every main and supplementary figure and supplementary table of the paper. A 100-gene expression signature associated with doubling time (DT) is identified in cancer cell lines (CCLE), patient-derived xenografts (PDX) and hepatocellular carcinoma (HCC). An ensemble of three models (Ridge regression, Random Forest and radial SVR) trained on PDX models with measured DT is then used to predict doubling time (pDT) in independent patient cohorts (HCC, lower-grade glioma, TCGA and a drug-response cohort) and in CCLE cell lines.
 
